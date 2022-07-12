@@ -32,3 +32,9 @@ ul,ol{
 a{
     color: #5271ff;
 }
+a.menu{
+    color: #5271ff;
+    display: block;
+    text-align: center;
+    font-size: 24px;
+}
